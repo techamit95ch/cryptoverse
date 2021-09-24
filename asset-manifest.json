@@ -5,18 +5,18 @@
     "main.js.map": "/static/js/main.1aedef50.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a5f70c28.js",
     "runtime-main.js.map": "/static/js/runtime-main.a5f70c28.js.map",
-    "static/css/2.a95be28f.chunk.css": "/static/css/2.a95be28f.chunk.css",
+    "static/css/2.786ae0dd.chunk.css": "/static/css/2.786ae0dd.chunk.css",
     "static/js/2.1dd11a19.chunk.js": "/static/js/2.1dd11a19.chunk.js",
     "static/js/2.1dd11a19.chunk.js.map": "/static/js/2.1dd11a19.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.a95be28f.chunk.css.map": "/static/css/2.a95be28f.chunk.css.map",
+    "static/css/2.786ae0dd.chunk.css.map": "/static/css/2.786ae0dd.chunk.css.map",
     "static/css/main.e2d4aa6c.chunk.css.map": "/static/css/main.e2d4aa6c.chunk.css.map",
     "static/js/2.1dd11a19.chunk.js.LICENSE.txt": "/static/js/2.1dd11a19.chunk.js.LICENSE.txt",
     "static/media/cryptocurrency.1548aced.png": "/static/media/cryptocurrency.1548aced.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a5f70c28.js",
-    "static/css/2.a95be28f.chunk.css",
+    "static/css/2.786ae0dd.chunk.css",
     "static/js/2.1dd11a19.chunk.js",
     "static/css/main.e2d4aa6c.chunk.css",
     "static/js/main.1aedef50.chunk.js"
