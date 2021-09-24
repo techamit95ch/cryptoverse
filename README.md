@@ -1,6 +1,6 @@
 # Project deployed
 
-using surge (cryptoverse-amit.surge.sh)
+using surge [cryptoverse] (http://cryptoverse-amit.surge.sh/)
 
 # Getting Started with Create React App
 
